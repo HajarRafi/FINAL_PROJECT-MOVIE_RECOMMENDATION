@@ -15,6 +15,7 @@ The structure of repository is as following:
 | | [Queries.sql](https://github.com/HajarRafi/FINAL_PROJECT-MOVIE_RECOMMENDATION/blob/main/Python%26SQL/Queries.sql) | MySQL - queries to count some values and extract useful data for Tableau. |
 | [Python&SQL/data](https://github.com/HajarRafi/FINAL_PROJECT-MOVIE_RECOMMENDATION/tree/main/Python%26SQL/data) | | Csv files of raw and final datasets. |
 | [Streamlit](https://github.com/HajarRafi/FINAL_PROJECT-MOVIE_RECOMMENDATION/tree/main/Streamlit) | | Pycharm files to execute on Streamlit.|
+| | [streamlit_demo.png](https://github.com/HajarRafi/FINAL_PROJECT-MOVIE_RECOMMENDATION/blob/main/Streamlit/streamlit_demo.png) | Image file of the Streamlit App.|
 | [Tableau](https://github.com/HajarRafi/FINAL_PROJECT-MOVIE_RECOMMENDATION/tree/main/Tableau) | [Movies_Final_Project.twbx](https://github.com/HajarRafi/FINAL_PROJECT-MOVIE_RECOMMENDATION/blob/main/Tableau/Movies_Final_Project.twbx)| Tableau - includes worksheets, dashboards and the story of visualizations.|
 | | [README.md](https://public.tableau.com/app/profile/hajar1648/viz/Movies_Final_Project/TheStory) | Link to online version of the story.|
 | [Main](https://github.com/HajarRafi/FINAL_PROJECT-MOVIE_RECOMMENDATION)| [Movie_Project_Presentation.key](https://github.com/HajarRafi/FINAL_PROJECT-MOVIE_RECOMMENDATION/blob/main/Movie_Project_Presentation.key) | Keynote(for Mac) file of project presentation.|
@@ -23,4 +24,5 @@ The structure of repository is as following:
 ## References:
 * https://www.atlassian.com/software/jira - project planning software
 * https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset - data source
+* https://dbdiagram.io/home - building the database schema
 * https://towardsdatascience.com/introduction-to-recommender-systems-1-971bd274f421
